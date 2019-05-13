@@ -3,7 +3,9 @@ body{
 }
 .student-owner{
 background-color: blue;
+width: 25px;
 }
 .student-contributer{
 color: red;
+width: 25px;
 }
